@@ -1,0 +1,16 @@
+# Site settings
+title: Roy van Laar
+header-img: img/home-bg.jpg
+email: roy@vanlaar.co
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/roy"
+url: "http://vanlaar.co"
+twitter_username: royvanlaar
+github_username:  royvanlaar
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

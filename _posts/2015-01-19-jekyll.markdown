@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Jekyll"
+subtitle:   "Jekyll testen"
+date:       2015-01-19 20:43:00
+author:     "Roy"
+header-img: "img/jekyll.jpg"
+---
+
+<h2 class="section-heading">The Final Frontier</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et convallis urna. Curabitur consectetur sapien ac metus malesuada elementum eu ut purus. Quisque vehicula vel nulla at condimentum. Cras quam nunc, viverra vel nisl quis, ornare aliquam est. Nam sed ex vulputate felis lacinia aliquet. Nullam faucibus scelerisque convallis. Sed consequat interdum varius. Praesent tristique sodales justo, vel vehicula leo sodales a. Nunc in pharetra tortor, vel aliquet velit. Cras leo turpis, mollis et fermentum quis, venenatis id nulla. Proin volutpat erat enim, ut porta justo sagittis eget. Fusce nec dolor efficitur, tempus est et, consectetur erat.</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">Aliquam posuere volutpat iaculis. Sed massa ligula, pretium sit amet hendrerit vel, finibus eu nunc. Maecenas dapibus metus id mi porttitor fermentum.</span>
